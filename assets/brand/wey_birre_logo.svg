@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 660" width="1800" height="660"><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0F766E"/><stop offset="1" stop-color="#14B8A6"/></linearGradient>
+<linearGradient id="gold" x1="0.2" y1="0" x2="0.8" y2="1"><stop offset="0" stop-color="#FEF3C7"/><stop offset="0.45" stop-color="#FBBF24"/><stop offset="1" stop-color="#D97706"/></linearGradient>
+</defs>
+<g transform="translate(-93 -10) scale(.7)">
+<ellipse cx="480" cy="880" rx="230" ry="26" fill="#000" opacity=".18"/>
+<circle cx="470" cy="570" r="280" fill="url(#gold)" stroke="#B45309" stroke-width="18"/>
+<circle cx="470" cy="570" r="232" fill="none" stroke="#B45309" stroke-opacity=".45" stroke-width="8" stroke-dasharray="4 22" stroke-linecap="round"/>
+<path d="M300 400 A230 230 0 0 1 470 340" stroke="#fff" stroke-opacity=".6" stroke-width="16" stroke-linecap="round" fill="none"/>
+<circle cx="330" cy="625" r="28" fill="#F97316" opacity=".35"/>
+<circle cx="610" cy="625" r="28" fill="#F97316" opacity=".35"/>
+<circle cx="395" cy="545" r="58" fill="#fff" stroke="#7A4B00" stroke-width="10"/>
+<circle cx="545" cy="545" r="58" fill="#fff" stroke="#7A4B00" stroke-width="10"/>
+<circle cx="414" cy="528" r="27" fill="#3B1D00"/>
+<circle cx="564" cy="528" r="27" fill="#3B1D00"/>
+<circle cx="424" cy="518" r="9" fill="#fff"/>
+<circle cx="574" cy="518" r="9" fill="#fff"/>
+<path d="M335 455 Q392 418 452 456" stroke="#7A4B00" stroke-width="16" stroke-linecap="round" fill="none"/>
+<path d="M488 456 Q548 418 605 455" stroke="#7A4B00" stroke-width="16" stroke-linecap="round" fill="none"/>
+<ellipse cx="470" cy="665" rx="36" ry="46" fill="#4A2100"/>
+<ellipse cx="470" cy="690" rx="22" ry="15" fill="#F87171"/>
+<path d="M665 395 Q710 458 665 494 Q620 458 665 395Z" fill="#7DD3FC" stroke="#fff" stroke-width="6"/>
+<g transform="rotate(6 730 175)">
+<rect x="540" y="82" width="400" height="210" rx="70" fill="#000" opacity=".15"/>
+<path d="M620 282 L585 372 L700 287 Z" fill="#000" opacity=".15"/>
+<rect x="530" y="70" width="400" height="210" rx="70" fill="#FECACA"/>
+<path d="M610 270 L575 360 L690 275 Z" fill="#FECACA"/>
+<text x="730" y="212" font-size="118" font-weight="800" text-anchor="middle" fill="#DC2626" font-family="Poppins, Nunito, 'Arial Rounded MT Bold', 'DejaVu Sans', Verdana, sans-serif">-500</text>
+</g></g>
+<text x="620" y="340" font-size="170" font-weight="800" font-family="Poppins, Nunito, 'Arial Rounded MT Bold', 'DejaVu Sans', Verdana, sans-serif"><tspan fill="#0F766E">Wey </tspan><tspan fill="#F59E0B">Birre</tspan></text>
+<text x="628" y="440" font-size="50" font-weight="600" fill="#64748B" font-family="Poppins, Nunito, 'Arial Rounded MT Bold', 'DejaVu Sans', Verdana, sans-serif">Wey! Where did my Birr go?</text>
+</svg>
